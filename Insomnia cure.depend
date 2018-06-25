@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529135058 source:f:\problem solving\insomnia cure\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
